@@ -1,0 +1,1 @@
+Native AutoHotkey SHA2 (256 bit) with HMAC. Copyright © 2013 VxE. All rights reserved.
